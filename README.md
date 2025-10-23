@@ -1,2 +1,3 @@
 # ABAP-RAP-FLIGHT
-RAP for flight
+
+This is a test project from SAP Learning Hub.
