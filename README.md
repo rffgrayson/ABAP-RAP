@@ -1,3 +1,3 @@
-# ABAP-RAP-FLIGHT
+# ABAP-RAP
 
-This is a test project from SAP Learning Hub.
+This is compilation of exercises from SAP Learning Hub.
